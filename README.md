@@ -16,9 +16,3 @@ Desenvolver um sistema de **análise preditiva de lutas do UFC** através da ide
 - Compilação de dados abrangentes sobre lutadores do UFC
 - Análise de estatísticas de performance, estilos de luta e histórico
 - Tratamento e normalização dos dados para análise comparativa
-
-### Técnicas Aplicadas
-- **Machine Learning** para classificação de arquétipos
-- **Análise estatística** para identificação de padrões
-- **Clustering** para segmentação de perfis de lutadores
-- **Análise preditiva** para estimativa de probabilidades
